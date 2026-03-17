@@ -22,7 +22,6 @@ private:
     // copy the state of the argument stack to `this`
     void copy(const LinkedListStack<T>&);
 public:
-        public:
         // constructor with the maximum size as the argument
         LinkedListStack();
 
